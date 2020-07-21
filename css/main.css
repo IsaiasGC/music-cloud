@@ -1,0 +1,166 @@
+<link href="https://fonts.googleapis.com/css?family=Abel|Alegreya+Sans|Hind|Oxygen" rel="stylesheet"> 
+
+#logo{
+	margin: 10px;
+}
+.navbar-nav{
+	text-align: center; 
+    padding: 0;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.nav-item{
+    font-size: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+#signin{
+	margin: 10px;
+}
+body{
+	font-family: 'Oxygen', sans-serif;
+	margin-bottom: 70px;
+}
+footer{
+	background: #093a56;
+	color: white;
+	text-align: center;
+	/*width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la página */
+	/*left: 0; /* Posicionamos la cabecera al lado izquierdo */
+	/*bottom: 0; /* Posicionamos la cabecera pegada arriba */
+	/*position: fixed; /* Hacemos que la cabecera tenga una posición fija */
+	opacity: 0.8;
+
+}
+audio{
+	width: 100%;
+	opacity: 0.5;
+}
+#hlof div{
+	float: right;
+	text-align: right;
+}
+#log{
+	height: 25px;
+	color: grey;
+	font-size: 18px;
+	margin: 5px;
+	text-decoration: none;
+	float: right;
+}
+#log:hover{
+	color: #00284c;
+	text-decoration: none;
+	text-shadow: 0 0 30px #93ccff;
+}
+.img-t-b{
+	width: 200px;
+	height: 100px;
+	margin-left: 15%;
+}
+.img-left{
+	height: 100%;
+	float: left;
+}
+.img-rigth{
+	height: 100%;
+	float: left;
+}
+.listas{
+	margin: 0px;
+	padding: 10px;
+	float: none;
+	text-align: center;
+	left: 50%;
+}
+.img-t-b2{
+	width: 300px;
+	height: 150px;
+}
+.img-left2{
+	height: 100%;
+	float: left;
+}
+.img-rigth2{
+	height: 100%;
+	float: right;
+}
+.listas a{
+	text-decoration: none;
+	color: #333;
+}
+.feat{
+	margin: 25px;
+}
+.thumbnail{
+	align-content: center;
+}
+main a:link{
+	text-decoration: none;
+	color: #333;
+}
+main a{
+	text-decoration: none;
+	color: #333;
+}
+.alb{
+  	vertical-align: middle;
+  	margin: auto;
+}
+.modal-dialog{
+	width: 100%;
+}
+.icon{
+	font-size: 30px;
+}
+.playlist .row{
+	color: white;
+	text-align: left;
+	width: 100%;
+	margin: 5px;
+}
+.playlist li{
+	text-decoration: none;
+	list-style: none;
+	border-bottom: solid;
+	border-bottom-color: #295a76;
+}
+.cancion{
+	height: 60px;
+}
+.cancion a{
+	color: white;
+}
+.cancion a:hover{
+	text-decoration: none;
+}
+.playlist .cancion:hover{
+	background: #466e87;
+}
+.active div{
+  color: #5DB0E6;
+}
+.biblioteca .row{
+	color: #333;
+	text-align: left;
+	width: 100%;
+	margin: 5px;
+}
+.biblioteca li{
+	text-decoration: none;
+	list-style: none;
+	border-bottom: solid;
+	border-bottom-color: #f0f0f0;
+}
+.biblioteca .cancion{
+	height: 60px;
+}
+.biblioteca .cancion a{
+	color: #333;
+}
+.biblioteca .cancion a:hover{
+	text-decoration: none;
+}
+.biblioteca .cancion:hover{
+	background: #f0f0f0;
+}
